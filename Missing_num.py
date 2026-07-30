@@ -7,3 +7,6 @@ def misssingNumbers(nums):
 
 nums=[3,0,1]
 print(misssingNumbers(nums))
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
